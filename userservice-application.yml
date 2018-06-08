@@ -1,0 +1,9 @@
+server:
+  port: 10005
+spring:
+  rabbitmq:
+    host: 10.83.2.188
+    port: 5672
+    username: admin
+    password: admin 
+    virtualHost: CAE_SYNC_VHOST
